@@ -14,4 +14,15 @@ func main() {
 		fmt.Println("equal to 15")
 	}
 
+	var b int
+	fmt.Println("Enter a number: ")
+	fmt.Scan(&b) //the typed value will be store inside a
+
+	if b > 15 {
+		fmt.Println("greater than 15")
+	} else if b < 15 {
+		fmt.Println("less than 15")
+	} else {
+		fmt.Println("equal to 15")
+	}
 }
