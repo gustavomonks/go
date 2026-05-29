@@ -2,7 +2,7 @@ package main
 
 import "fmt"
 
-func main() {
+func switchcase() {
 
 	x := 2
 	switch x {

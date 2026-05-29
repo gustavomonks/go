@@ -2,7 +2,7 @@ package main
 
 import "fmt"
 
-func main() {
+func elseif() {
 	//there is n o ternaty if in Go
 
 	const a int = 10
