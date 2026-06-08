@@ -39,6 +39,6 @@ func main() {
 	fmt.Println(nextInt())
 	fmt.Println(nextInt())
 	fmt.Println(nextInt())
-	fmt.Println(intSeq()())
+	fmt.Println(intSeq()()) //we use two () because the first call returns a func and the second call execute that func
 
 }
