@@ -19,6 +19,5 @@ The goal is simple: **learn by building**.
 - 🐹 Golang
 - Git & GitHub
 - CLI / Terminal
-- Docker *(soon)*
 
 ---
