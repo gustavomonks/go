@@ -16,7 +16,7 @@ func elseif() {
 
 	var b int
 	fmt.Println("Enter a number: ")
-	fmt.Scan(&b) //the typed value will be store inside a
+	fmt.Scan(&b) //the typed value will be store inside b
 
 	if b > 15 {
 		fmt.Println("greater than 15")
