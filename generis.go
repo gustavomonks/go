@@ -36,7 +36,7 @@ func main() {
 	fmt.Println(AddInt(2, 4))
 	//fmt.Println(AddInt(2.23, 1)) //wont work
 	fmt.Println(Add(2.523, 1))
-	// here we passa what type we want for Data
+	// here we pass what type we want for Data
 	u := UserGenerics[int]{
 		ID:   2,
 		Name: "Gustavo",
