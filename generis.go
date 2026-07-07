@@ -18,7 +18,7 @@ func Add[T int | float64](a T, b T) T {
 	return a + b
 }
 
-// -----
+// ----
 
 type CustomData interface {
 	constraints.Ordered | []byte | []rune
